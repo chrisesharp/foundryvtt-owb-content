@@ -1,0 +1,19 @@
+{
+  "name": "foundryvtt-owb-content",
+  "version": "0.1.0",
+  "description": "OWB content for Foundry VTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisesharp/foundryvtt-owb-content.git"
+  },
+  "author": "chrisesharp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisesharp/foundryvtt-owb-content/issues"
+  },
+  "homepage": "https://github.com/chrisesharp/foundryvtt-owb-content#readme"
+}
