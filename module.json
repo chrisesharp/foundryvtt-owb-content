@@ -84,5 +84,5 @@
     "compatibleCoreVersion": "0.7.9",
     "url": "https://github.com/chrisesharp/foundryvtt-owb-content",
     "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/module.json",
-    "download": "https://github.com/chrisesharp/foundryvtt-owb-content/raw/master/package/owb-content-v0.1.0.zip"
+    "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/package/owb-content-v0.1.0.zip"
 }
