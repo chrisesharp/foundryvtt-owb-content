@@ -1,5 +1,6 @@
 # WWII: Operation Whitebox for Foundry VTT (Unofficial)
 
+![OWBCL](/system/owb/assets/default/OWBCL.webp)
 This module adds precreated weapons, gear, vehicles, NPCs and more in your Foundry VTT OWB:WW2 game.
 
 ## Installation
@@ -9,12 +10,17 @@ This module must be used in conjunction with the unofficial [OWB System for Foun
 
 ## License
 
-This work is released under [Open Game License](OGL.txt) Version 1.0a.\
-This Foundry VTT module requires Operation Whitebox:WW2 Rules that you can find [here](https://www.drivethrurpg.com/product/196284/OWB001-WWII-Operation-WhiteBox).
+This work is released under [Open Game License](OGL.txt) Version 1.0a.
 
-This third party product is not affiliated with or approved by Small Niche Games. \
-Operation Whitebox and OWB:WW2 are trademarks of Small Niche Games.\
-The trademark and OWB:WW2 logo are used with permission of Small Niche Games, under license.
+This Foundry VTT system requires Operation Whitebox:WW2 Rules that you can find [here](https://www.drivethrurpg.com/product/196284/OWB001-WWII-Operation-WhiteBox).
+
+This third party product is not affiliated with or approved by Small Niche Games.
+
+WWII: Operation WhiteBox™ is a trademark of Peter C. Spahn.
+
+Small Niche Games™ is a trademark of Peter C. Spahn
+
+Used with permission under license.
 
 ## Credits
 
