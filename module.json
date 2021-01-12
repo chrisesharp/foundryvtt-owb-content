@@ -1,8 +1,8 @@
 {
     "name": "owb-content",
-    "title": "Operation Whitebox:WW2 OGL Content",
-    "description": "Open Game Licensed content from Small Niche Games Operation Whitebox OWB:WW2",
-    "version": "0.1.0",
+    "title": "WWII:OWB OGL Content",
+    "description": "Open Game Licensed content OWB:WW2",
+    "version": "0.1.1",
     "systems": ["owb"],
     "author": "chrisesharp",
     "scripts": [],

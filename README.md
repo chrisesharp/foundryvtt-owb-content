@@ -1,6 +1,7 @@
-# WWII: Operation Whitebox for Foundry VTT (Unofficial)
+# Base Content for WWII:OWB for Foundry VTT (Unofficial)
 
-![OWBCL](/system/owb/assets/default/OWBCL.webp)
+![OWBCL](assets/OWBCL.webp)
+
 This module adds precreated weapons, gear, vehicles, NPCs and more in your Foundry VTT OWB:WW2 game.
 
 ## Installation
