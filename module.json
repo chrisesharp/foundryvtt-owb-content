@@ -2,7 +2,7 @@
     "name": "owb-content",
     "title": "WWII:OWB OGL Content",
     "description": "Open Game Licensed content OWB:WW2",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "systems": ["owb"],
     "author": "chrisesharp",
     "scripts": [],
@@ -40,14 +40,6 @@
           "path": "packs/gear.db",
           "entity": "Item",
           "module": "owb-content"
-        },
-        {
-            "name": "macros",
-            "label": "Macros",
-            "package": "owb-content",
-            "path": "packs/macros.db",
-            "entity": "Macro",
-            "module": "owb-content"
         },
         {
             "name": "npcs",
@@ -94,5 +86,5 @@
     "compatibleCoreVersion": "0.7.9",
     "url": "https://github.com/chrisesharp/foundryvtt-owb-content",
     "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/module.json",
-    "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/package/owb-content-v0.1.0.zip"
+    "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/package/owb-content-v0.1.2.zip"
 }
