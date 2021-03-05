@@ -1,0 +1,22 @@
+{
+  "_id": "vC85nei0CxrviGWz",
+  "name": "Move Cable-Car",
+  "type": "script",
+  "sort": 100001,
+  "flags": {
+    "furnace": {
+      "runAsGM": false
+    },
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.5"
+    }
+  },
+  "scope": "global",
+  "command": "const cable_car = game.actors.find(a => a.name == \"Cable Car\");\nlet tokens = cable_car.getActiveTokens();\nif (tokens.length > 0) {\n  token = tokens[0];\n}\nif (token && token.name == \"Cable Car\") {\n  let x = token.x - 100;\n  let hidden = true;\n  if (x > -200 && x < 2400) {\n    hidden = false;\n  }\n  if (x < -200) {\n    x = 2500;\n  }\n  token.update({_id: token.id, x: x, hidden:hidden});\n}",
+  "author": "HcmvoAbRJ7rA0YDh",
+  "img": "icons/svg/dice-target.svg",
+  "actorIds": []
+}
