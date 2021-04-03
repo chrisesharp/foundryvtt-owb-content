@@ -1,0 +1,45 @@
+{
+  "_id": "CwHR2piVJ86LpPGz",
+  "name": "RPG (Medium)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 75,
+      "medium": 150,
+      "long": 450,
+      "extreme": 1800
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>A direct hit from a rocket would kill any character. Therefore, the Referee can treat a successful rocket launcher attack as a grenade (2d6+2 damage in 30' radius).</p>\n<p>The rockets contain a \"shaped charge\" that is specifically designed to be used against vehicles, enabling them to do full damage against vehicles with the Reinforced Hull (x1) or Reinforced Hull (x2) Modification in Vehicle Combat (pg.67). When used against armored vehicles such as tanks, soldiers should aim for the less armored rear of the vehicle whenever possible. This is why most tanks are equipped with machineguns and usually supported by infantry.</p>\n<p>Medium rocket-propelled grenades (RPGs) include American bazookas and other medium-sized, antitank weapons.</p>",
+    "damage": "8d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "3.5in"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 20,
+    "counter": {
+      "value": 0,
+      "max": 0.5
+    }
+  },
+  "sort": 2600001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/rpg.png",
+  "effects": []
+}

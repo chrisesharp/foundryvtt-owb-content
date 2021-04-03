@@ -1,0 +1,26 @@
+{
+  "_id": "TSb1svrNF8lOyh6d",
+  "name": "Vehicle Understanding",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Wheelmen have a natural understanding of ground vehicles (cars, trucks, tanks, etc.). At the Referee&rsquo;s discretion, they may receive bonuses or increased chances of success when dealing with service and repair of vehicles.</p>",
+    "save": ""
+  },
+  "sort": 2800001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

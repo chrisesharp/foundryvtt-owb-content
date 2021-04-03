@@ -1,0 +1,45 @@
+{
+  "_id": "lLRUjdKHgdYS4Y3i",
+  "name": "Shotgun",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 15,
+      "medium": 30,
+      "long": 90,
+      "extreme": 360
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>Shotguns can be double-barreled streetsweepers or pump-action shotguns. Shotguns fire buckshot shells which grant the attacker a +2 To-Hit. If both barrels of a double-barreled shotgun are fired at once, the attack does double damage at short range only.</p>\n<p>Shotguns were more prevalent in the Pacific Theater.</p>",
+    "damage": "1d6+2",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "12ga"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": true,
+    "suppressive": false,
+    "weight": 8,
+    "counter": {
+      "value": 0,
+      "max": 2
+    }
+  },
+  "sort": 2700001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/shotgun.png",
+  "effects": []
+}

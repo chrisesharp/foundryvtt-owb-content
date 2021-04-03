@@ -1,0 +1,28 @@
+{
+  "_id": "175O8MOgNrPhaEiV",
+  "name": "Heavy Clothes",
+  "type": "armor",
+  "data": {
+    "description": "<p>This includes thick clothes worn by civilians during winter months&nbsp;</p>",
+    "ac": {
+      "value": 1
+    },
+    "aac": {
+      "value": 1
+    },
+    "type": "light",
+    "equipped": false,
+    "weight": 10
+  },
+  "sort": 300001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/clothing.png",
+  "effects": []
+}

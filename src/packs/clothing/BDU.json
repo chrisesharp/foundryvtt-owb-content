@@ -1,0 +1,28 @@
+{
+  "_id": "ALc63UuxhNAVA8B3",
+  "name": "BDU",
+  "type": "armor",
+  "data": {
+    "description": "<p>Battle Dress Uniform issued for combat. Includes boots and helmet. (see Armor, pg. 34)</p>",
+    "ac": {
+      "value": 1
+    },
+    "aac": {
+      "value": 1
+    },
+    "type": "light",
+    "equipped": false,
+    "weight": 10
+  },
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/clothing.png",
+  "effects": []
+}

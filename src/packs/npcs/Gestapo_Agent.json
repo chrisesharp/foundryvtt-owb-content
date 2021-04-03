@@ -1,0 +1,233 @@
+{
+  "_id": "TJf62Y9HAKOb2XBw",
+  "name": "Gestapo Agent",
+  "type": "enemy",
+  "data": {
+    "hp": {
+      "hd": "1d6-1",
+      "value": 5,
+      "max": 5
+    },
+    "ac": {
+      "value": 8,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 0,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 19
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "details": {
+      "biography": "<p>The Gestapo is responsible for rooting out dissidents, traitors, resistance fighters, and other undesirables from the civilian populations of Germany and German-occupied countries. Its agents wear plain clothes or a Gestapo uniform. Some also hold rank in the Waffen-SS.</p>\n<p>Gestapo agents can detect deception with a successful Saving Throw. The very mention of the Gestapo strikes fear into the hearts of honest citizens and resistance fighters across Europe. The Gestapo maintains offices at all Nazi concentration camps. Typical equipment includes a battle dress uniform and medium handgun.</p>",
+      "xp": 0,
+      "morale": "10",
+      "nationality": "German",
+      "rank": 1
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250,
+      "pct": 5,
+      "encumbered": false,
+      "value": 12.5
+    }
+  },
+  "sort": 700000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/agent.png",
+  "token": {
+    "flags": {},
+    "name": "German Soldier",
+    "displayName": 0,
+    "img": "modules/owb-content/assets/default/agent.png",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "TJf62Y9HAKOb2XBw",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "lwFe4gzEWw4puhuj",
+      "name": "BDU",
+      "type": "armor",
+      "data": {
+        "description": "<p>Battle Dress Uniform issued for combat. Includes boots and helmet. (see Armor, pg. 34)</p>",
+        "ac": {
+          "value": 1
+        },
+        "aac": {
+          "value": 1
+        },
+        "type": "light",
+        "equipped": false,
+        "weight": 10
+      },
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.QAPphBhkzprq7yCD"
+        }
+      },
+      "img": "modules/owb-content/assets/default/clothing.png",
+      "effects": []
+    },
+    {
+      "_id": "CzhlWRiYsaIiy27o",
+      "name": "Detect Deception",
+      "type": "ability",
+      "data": {
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "description": "<p>Once a Charmer reaches 3rd level, he has become so good at reading people that he becomes a master at detecting deception (body language, nervous tics, outright lies, etc.).</p>\n<p>After speaking with a person for three (3) rounds, the Charmer may make a <strong>Saving Throw</strong> in order to detect any lie or deception. This roll is influenced by the difference between the Charmer's <strong>Experience Level</strong> and the target's Experience Level.</p>",
+        "save": "true"
+      },
+      "sort": 300001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.IKvVTnGgfDGals55"
+        }
+      },
+      "img": "systems/owb/assets/default/abilities.png",
+      "effects": []
+    },
+    {
+      "_id": "WYR8lMvNnA5gyMhl",
+      "name": "9mm Ammunition",
+      "type": "item",
+      "data": {
+        "description": "<p>Generic ammunition clip for a weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+        "quantity": {
+          "value": 10,
+          "max": 10
+        },
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "treasure": false,
+        "weight": 0.5
+      },
+      "sort": 100001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.s23q2rI5Lemnbx0x"
+        }
+      },
+      "img": "systems/owb/assets/default/ammunition.png",
+      "effects": []
+    },
+    {
+      "_id": "6MBSDSJ7QWxWF3W4",
+      "name": "Handgun (Medium)",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 75,
+          "medium": 150,
+          "long": 450,
+          "extreme": 1800
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes all medium caliber handguns such as the .38 British Enfield Mk. II and the 9 mm Luger P 08.</p>",
+        "damage": "1d6-1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          },
+          {
+            "title": "cal",
+            "value": ".38"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 2,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 800000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.rHgTgj6epjEOdj1m"
+        }
+      },
+      "img": "modules/owb-content/assets/default/handgun.png",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

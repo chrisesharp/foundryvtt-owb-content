@@ -1,0 +1,26 @@
+{
+  "_id": "eGqHPUA3aILPVoS3",
+  "name": "Signal Kit",
+  "type": "item",
+  "data": {
+    "description": "<p>A signal kit consists of a flare gun and five (5) flares used as emergency locators or to signal other operatives during missions. The gun can also be used as a weapon&mdash;it has a range of 3' and does 1d6-2 damage. In addition, the target must make a Saving Throw to avoid catching on fire.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 10
+  },
+  "sort": 1500000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/flare.png",
+  "effects": []
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "FEQIUKZSpQqoTYQK",
+  "name": "Command Position",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The Tactician is promoted to a senior NCO or officer rank (or simply promoted, if he was a senior NCO or officer already) and given command of a company, division, or special forces unit of the Referee&rsquo;s choosing. The Tactician may direct these troops as needed in order to complete his own unit's Objectives.</p>",
+    "save": ""
+  },
+  "sort": 500001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

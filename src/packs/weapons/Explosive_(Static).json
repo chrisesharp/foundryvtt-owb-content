@@ -1,0 +1,40 @@
+{
+  "_id": "AZM95LwJA4mThOWs",
+  "name": "Explosive (Static)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 30,
+      "medium": 60,
+      "long": 180,
+      "extreme": 720
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Static Explosives include common WWII plastic explosives such as gelignite (blasting gelatin), Nobel 808, and C-2.</p>\n<p>Static Explosives are safe to handle, easy to mold, and do not explode without a detonator (triggered by an internal clock, match-lit fuse, or hard-wired to a plunger or electrical charge). A well-placed charge can destroy just about any type of structure or vehicle.</p>\n<p>Static Explosives do not do a set amount of damage. The Referee is free to decide the area of effect and how much damage the explosion does to characters or vehicles unlucky enough to be caught in the blast (usually 2d6+2).</p>",
+    "damage": "2d6+2",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 5,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 600001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/explosive.png",
+  "effects": []
+}

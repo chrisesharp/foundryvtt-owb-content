@@ -1,0 +1,49 @@
+{
+  "_id": "lHtLGmzITeVK6YHq",
+  "name": "M1 Garand",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 150,
+      "medium": 300,
+      "long": 900,
+      "extreme": 3600
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "",
+    "damage": "1d6 + 1",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Burst",
+        "value": "Burst"
+      },
+      {
+        "title": "cal",
+        "value": ".22"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": true,
+    "suppressive": false,
+    "weight": 10,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 1600001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/rifle.png",
+  "effects": []
+}

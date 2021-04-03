@@ -1,0 +1,419 @@
+{
+  "_id": "zx4ngz5hEm866v1N",
+  "name": "Allied Soldier",
+  "type": "character",
+  "data": {
+    "hp": {
+      "hd": "1d6",
+      "value": 20,
+      "max": 20
+    },
+    "ac": {
+      "value": 8,
+      "mod": -2,
+      "base": 7,
+      "shield": 0
+    },
+    "aac": {
+      "value": 13,
+      "mod": 0,
+      "base": 12,
+      "shield": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 0,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 0
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0,
+        "value": 12,
+        "bonus": 0
+      },
+      "dex": {
+        "mod": 0,
+        "value": 10,
+        "bonus": 0,
+        "init": 0
+      },
+      "int": {
+        "value": 10,
+        "bonus": 0,
+        "mod": 0
+      },
+      "wis": {
+        "value": 12,
+        "bonus": 0,
+        "mod": 0
+      },
+      "con": {
+        "value": 13,
+        "bonus": 0,
+        "mod": 1
+      },
+      "cha": {
+        "value": 11,
+        "bonus": 0,
+        "mod": 0,
+        "npc": 0,
+        "loyalty": 7
+      }
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "details": {
+      "biography": "",
+      "notes": "<p>Allied soldiers come from the United States, Great Britain, Canada, France, Russia, and many other countries across Europe. They were well trained and had an uncanny ability to overcome adversity and prevail, despite the odds.</p>\n<p>Typical equipment includes a battle dress uniform, field pack and gear, large rifle, bayonet, and two grenades.</p>",
+      "class": "",
+      "nationality": "British",
+      "profession": "",
+      "title": "",
+      "rank": 1,
+      "xp": {
+        "share": 100,
+        "next": 2000,
+        "value": 0,
+        "bonus": 0
+      }
+    },
+    "exploration": {
+      "hd": 1
+    },
+    "encumbrance": {
+      "max": 250,
+      "pct": 9.4,
+      "encumbered": false,
+      "value": 23.5
+    },
+    "languages": {
+      "value": [
+        {
+          "name": "English",
+          "fluency": "F"
+        }
+      ],
+      "fluent": 0,
+      "basic": 0
+    },
+    "retainer": {
+      "enabled": true,
+      "loyalty": 0,
+      "wage": ""
+    }
+  },
+  "sort": 200000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/british_soldier.png",
+  "token": {
+    "flags": {},
+    "name": "Allied Soldier",
+    "displayName": 0,
+    "img": "modules/owb-content/assets/default/british_soldier.png",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "zx4ngz5hEm866v1N",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "WFOaa3pI8NLLesbt",
+      "name": "money",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": {
+          "value": "10",
+          "max": 0
+        },
+        "tags": [],
+        "treasure": false,
+        "weight": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "/systems/owb/assets/default/ability.png",
+      "effects": []
+    },
+    {
+      "_id": "fMC0QjEPfi0IyXgI",
+      "name": "English",
+      "type": "language",
+      "data": {
+        "name": "English",
+        "fluency": "F",
+        "save": "save"
+      },
+      "sort": 1200000,
+      "flags": {},
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/32px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+      "effects": []
+    },
+    {
+      "_id": "2Zw0CAQSkV3qSF0i",
+      "name": "Bayonet",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>A bayonet is a long knife designed to fit on the end of a rifle. If used in this manner, treat the weapon as a spear.</p>",
+        "damage": "1d4+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Melee",
+            "value": "Melee"
+          }
+        ],
+        "missile": false,
+        "melee": true,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 0
+        }
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AGPydWOo9aUx0HCx"
+        }
+      },
+      "img": "systems/owb/assets/default/melee.png",
+      "effects": []
+    },
+    {
+      "_id": "SSKLvlpIT5yiTguk",
+      "name": "Grenade",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 6,
+          "medium": 12,
+          "long": 36,
+          "extreme": 144
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>Grenades do 2d6+2 damage within a 30' radius. Grenades are on a timed fuse and do not explode until the end of the round, so characters may have time to dive for cover to avoid (or lessen) the blast, at the Referee&rsquo;s discretion (see Explosives, pg. 50).</p>\n<p>&nbsp;</p>\n<p>Grenades include the British Mills Bomb the American Mk II \"pineapple\" grenade, and the German \"potato masher\" stielhandgranate.</p>",
+        "damage": "2d6+2",
+        "bonus": 0,
+        "tags": [],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 1100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.4dTfCJcPpdbLHO8K"
+        }
+      },
+      "img": "modules/owb-content/assets/default/grenade.png",
+      "effects": []
+    },
+    {
+      "_id": "WcN782pvPTWFJdiD",
+      "name": "Grenade",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 6,
+          "medium": 12,
+          "long": 36,
+          "extreme": 144
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>Grenades do 2d6+2 damage within a 30' radius. Grenades are on a timed fuse and do not explode until the end of the round, so characters may have time to dive for cover to avoid (or lessen) the blast, at the Referee&rsquo;s discretion (see Explosives, pg. 50).</p>\n<p>&nbsp;</p>\n<p>Grenades include the British Mills Bomb the American Mk II \"pineapple\" grenade, and the German \"potato masher\" stielhandgranate.</p>",
+        "damage": "2d6+2",
+        "bonus": 0,
+        "tags": [],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 1100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.4dTfCJcPpdbLHO8K"
+        }
+      },
+      "img": "modules/owb-content/assets/default/grenade.png",
+      "effects": []
+    },
+    {
+      "_id": "gcC0m0sYA4gRwXzp",
+      "name": "BDU",
+      "type": "armor",
+      "data": {
+        "description": "<p>Battle Dress Uniform issued for combat. Includes boots and helmet. (see Armor, pg. 34)</p>",
+        "ac": {
+          "value": 1
+        },
+        "aac": {
+          "value": 1
+        },
+        "type": "light",
+        "equipped": true,
+        "weight": 10
+      },
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.QAPphBhkzprq7yCD"
+        }
+      },
+      "img": "modules/owb-content/assets/default/clothing.png",
+      "effects": []
+    },
+    {
+      "_id": "n7xYrlfyAQLfzlUr",
+      "name": "Rifle (Large)",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 150,
+          "medium": 300,
+          "long": 900,
+          "extreme": 3600
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes most military rifles including the British bolt-action Lee-Enfield Mk. III, the American semi-automatic M1 Garand, and the German bolt-action Karabiner-98k.</p>",
+        "damage": "1d6+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Burst",
+            "value": "Burst"
+          },
+          {
+            "title": "cal",
+            "value": ".303"
+          },
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": true,
+        "suppressive": false,
+        "weight": 10,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 2200001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.FXHlxfu09vYbKryb"
+        }
+      },
+      "img": "modules/owb-content/assets/default/rifle.png",
+      "effects": []
+    },
+    {
+      "_id": "EYAcqgYtYO54mgoT",
+      "name": "9mm Ammunition",
+      "type": "item",
+      "data": {
+        "description": "<p>Generic ammunition clip for a weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+        "quantity": {
+          "value": 10,
+          "max": 10
+        },
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "treasure": false,
+        "weight": 0.5
+      },
+      "sort": 100001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.s23q2rI5Lemnbx0x"
+        }
+      },
+      "img": "systems/owb/assets/default/ammunition.png",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "xioMyaiWGlYBL5Qo",
+  "name": "Rifle (Small)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 150,
+      "medium": 300,
+      "long": 900,
+      "extreme": 3600
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>This includes most civilian hunting rifles and military carbines such as the M1 carbine.</p>",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": ".22"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 7,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 2300001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/rifle.png",
+  "effects": []
+}

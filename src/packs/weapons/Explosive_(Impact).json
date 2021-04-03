@@ -1,0 +1,40 @@
+{
+  "_id": "YROOWWqWNW2K7nNS",
+  "name": "Explosive (Impact)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 15,
+      "medium": 30,
+      "long": 90,
+      "extreme": 360
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Impact Explosives include things like pipe bombs, Molotov cocktails, and any other type of explosive device that explodes on contact.</p>\n<p>Impact Explosives do not require precision to be effective. If the target is stationary and in the open, their Armor Class is considered a 9 [10].</p>\n<p>If the character is aiming for a specific target (such as an open door, approaching soldier, balcony, underside of a vehicle, or trench line) or if the character cannot see the target (such as when hurling a pipe bomb at a machinegun nest after taking cover), the target area should be treated as AC 5 [14].</p>\n<p>The Referee is free to determine if a &ldquo;miss&rdquo; causes any damage or any other adverse effects near the target area.</p>\n<p>Impact Explosives typically deliver 1d6+2 Hit Points of damage in a 15' radius.</p>",
+    "damage": "1d6+2",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 5,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 500001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/explosive.png",
+  "effects": []
+}

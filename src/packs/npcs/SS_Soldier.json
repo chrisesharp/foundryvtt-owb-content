@@ -1,0 +1,376 @@
+{
+  "_id": "Zfbxv3qCsgqecXx4",
+  "name": "SS Soldier",
+  "type": "enemy",
+  "data": {
+    "hp": {
+      "hd": "1d6-1",
+      "value": 5,
+      "max": 5
+    },
+    "ac": {
+      "value": 8,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 0,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 19
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 30
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "details": {
+      "biography": "<p>Schutzstaffel (SS) soldiers were highly motivated and eager to see action. They received the best weapons and training because of their fanatic loyalty to Hitler and the Nazi Party. Typical equipment includes a battle dress uniform, field pack and gear, large rifle, medium handgun, bayonet, and two grenades.</p>\n<p>In a group of six SS soldiers or more, one is usually armed with a submachinegun.</p>",
+      "xp": 0,
+      "morale": "10",
+      "nationality": "German",
+      "rank": 1
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250,
+      "pct": 10.2,
+      "encumbered": false,
+      "value": 25.5
+    }
+  },
+  "sort": 1000000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/ss_soldier.png",
+  "token": {
+    "flags": {},
+    "name": "German Soldier",
+    "displayName": 0,
+    "img": "modules/owb-content/assets/default/ss_soldier.png",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "Zfbxv3qCsgqecXx4",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "nes6qOqG0NKy7N8n",
+      "name": "BDU",
+      "type": "armor",
+      "data": {
+        "description": "<p>Battle Dress Uniform issued for combat. Includes boots and helmet. (see Armor, pg. 34)</p>",
+        "ac": {
+          "value": 1
+        },
+        "aac": {
+          "value": 1
+        },
+        "type": "light",
+        "equipped": false,
+        "weight": 10
+      },
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.QAPphBhkzprq7yCD"
+        }
+      },
+      "img": "modules/owb-content/assets/default/clothing.png",
+      "effects": []
+    },
+    {
+      "_id": "TBk1iOh5dzmF8xHC",
+      "name": "Bayonet",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>A bayonet is a long knife designed to fit on the end of a rifle. If used in this manner, treat the weapon as a spear.</p>",
+        "damage": "1d4+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Melee",
+            "value": "Melee"
+          }
+        ],
+        "missile": false,
+        "melee": true,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AGPydWOo9aUx0HCx"
+        }
+      },
+      "img": "systems/owb/assets/default/melee.png",
+      "effects": []
+    },
+    {
+      "_id": "qqsoXsR7mTaSv1vP",
+      "name": "Grenade",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 6,
+          "medium": 12,
+          "long": 36,
+          "extreme": 144
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>Grenades do 2d6+2 damage within a 30' radius. Grenades are on a timed fuse and do not explode until the end of the round, so characters may have time to dive for cover to avoid (or lessen) the blast, at the Referee&rsquo;s discretion (see Explosives, pg. 50).</p>\n<p>&nbsp;</p>\n<p>Grenades include the British Mills Bomb the American Mk II \"pineapple\" grenade, and the German \"potato masher\" stielhandgranate.</p>",
+        "damage": "2d6+2",
+        "bonus": 0,
+        "tags": [],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 1100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.4dTfCJcPpdbLHO8K"
+        }
+      },
+      "img": "modules/owb-content/assets/default/grenade.png",
+      "effects": []
+    },
+    {
+      "_id": "tO1FBZTUdFDSZkED",
+      "name": "Grenade",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 6,
+          "medium": 12,
+          "long": 36,
+          "extreme": 144
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>Grenades do 2d6+2 damage within a 30' radius. Grenades are on a timed fuse and do not explode until the end of the round, so characters may have time to dive for cover to avoid (or lessen) the blast, at the Referee&rsquo;s discretion (see Explosives, pg. 50).</p>\n<p>&nbsp;</p>\n<p>Grenades include the British Mills Bomb the American Mk II \"pineapple\" grenade, and the German \"potato masher\" stielhandgranate.</p>",
+        "damage": "2d6+2",
+        "bonus": 0,
+        "tags": [],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 1100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.4dTfCJcPpdbLHO8K"
+        }
+      },
+      "img": "modules/owb-content/assets/default/grenade.png",
+      "effects": []
+    },
+    {
+      "_id": "AjmJHeVQwYLkuSZ0",
+      "name": "9mm Ammunition",
+      "type": "item",
+      "data": {
+        "description": "<p>Generic ammunition clip for a weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+        "quantity": {
+          "value": 10,
+          "max": 10
+        },
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "treasure": false,
+        "weight": 0.5
+      },
+      "sort": 100001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.s23q2rI5Lemnbx0x"
+        }
+      },
+      "img": "systems/owb/assets/default/ammunition.png",
+      "effects": []
+    },
+    {
+      "_id": "yeXQbHV58Z56u69p",
+      "name": "Handgun (Medium)",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 75,
+          "medium": 150,
+          "long": 450,
+          "extreme": 1800
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes all medium caliber handguns such as the .38 British Enfield Mk. II and the 9 mm Luger P 08.</p>",
+        "damage": "1d6-1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          },
+          {
+            "title": "cal",
+            "value": ".38"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 2,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 800000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.rHgTgj6epjEOdj1m"
+        }
+      },
+      "img": "modules/owb-content/assets/default/handgun.png",
+      "effects": []
+    },
+    {
+      "_id": "R8t5EVbOutjWLeOh",
+      "name": "Rifle (Large)",
+      "type": "weapon",
+      "data": {
+        "range": {
+          "short": 150,
+          "medium": 300,
+          "long": 900,
+          "extreme": 3600
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes most military rifles including the British bolt-action Lee-Enfield Mk. III, the American semi-automatic M1 Garand, and the German bolt-action Karabiner-98k.</p>",
+        "damage": "1d6+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Burst",
+            "value": "Burst"
+          },
+          {
+            "title": "cal",
+            "value": ".303"
+          },
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": true,
+        "suppressive": false,
+        "weight": 10,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "sort": 2200001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.FXHlxfu09vYbKryb"
+        }
+      },
+      "img": "modules/owb-content/assets/default/rifle.png",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "UfRJOD80j7ngCKGU",
+  "name": "Friendly Demeanour",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The Charmer is so gracious and disarming that he receives a +1 bonus to any Reaction Roll made by him or his companions. This bonus increases to +2 when dealing with members of the opposite sex.</p>\n<p>At 3rd level, this bonus increases to +2 (+3 with opposite sex).</p>",
+    "save": ""
+  },
+  "sort": 1200001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "lnCJFw3N4wdY5hCe",
+  "name": "Cargo",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The vehicle is specially designed to transport cargo. The type and amount of cargo each vehicle can carry is left to the Referee.</p>",
+    "save": ""
+  },
+  "sort": 400001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/cargo.png",
+  "effects": []
+}

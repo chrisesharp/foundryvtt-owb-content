@@ -1,0 +1,31 @@
+{
+  "name": "40mm shell",
+  "type": "item",
+  "data": {
+    "description": "<p>Shell for a 40mm 2-pounder tank gun.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": "40mm"
+      }
+    ],
+    "treasure": false,
+    "weight": 1
+  },
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "5B5qkqk6teOFK7AT"
+}

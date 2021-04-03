@@ -1,0 +1,26 @@
+{
+  "_id": "Kxvc8Gcl9W6wGQTZ",
+  "name": "Tech-master",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Once a Combat Engineer reaches 3rd level, he becomes an expert on the latest technology and inventions (including Covert Special Forces Equipment, pg. 92). In addition, the Combat Engineer may modify equipment and weapons beyond their stock Statistics. This includes increasing damage, range, functionality, Armor Class, etc. How long this takes and what it involves are determined by the Referee.</p>",
+    "save": ""
+  },
+  "sort": 2600001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "4M4IGHZYCBrdzFnx",
+  "name": "Goody Pack",
+  "type": "item",
+  "data": {
+    "description": "<p>A goody pack contains cigarettes, chocolate, and coffee or tea.</p>\n<p>These items were extremely prized and were often used as currency among the Allied troops of WWII.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0
+  },
+  "sort": 900000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "/systems/owb/assets/default/ability.png",
+  "effects": []
+}

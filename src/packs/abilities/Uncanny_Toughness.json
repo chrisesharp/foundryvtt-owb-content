@@ -1,0 +1,26 @@
+{
+  "_id": "27OF5Br5GTy4rHdg",
+  "name": "Uncanny Toughness",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>A Grunt is capable of avoiding attacks and shrugging off injuries that would incapacitate or kill a lesser man. A Grunt receives a -1 [+1] <strong>bonus to his Armor Class</strong> at 1st level, a -2 [+2] bonus to his Armor Class at 3rd level, and a -3 [+3] bonus to his Armor Class at 5th level.</p>",
+    "save": ""
+  },
+  "sort": 2700001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

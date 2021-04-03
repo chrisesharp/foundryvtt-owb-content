@@ -1,0 +1,136 @@
+{
+  "_id": "P2GVeWjtj8vWc8ZH",
+  "name": "Civilian",
+  "type": "enemy",
+  "data": {
+    "hp": {
+      "hd": "1d6-2",
+      "value": 3,
+      "max": 3
+    },
+    "ac": {
+      "value": 9,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": -1,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 19
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "details": {
+      "biography": "<p>Civilians can be shop owners, factory workers, politicians, performers, or anyone else living in war-torn Europe. They may be service personnel such as mail carriers and clerks. They may even be refugees fleeing the German occupation.</p>\n<p>The typical European civilian has been greatly impacted (for good or ill) by the current war. Some businessmen actually profited off the patronage of Allied and/or German troops in their shops, pubs, restaurants, and cafes. Some sympathize with the local resistance while others collaborate with the occupying Germans.</p>",
+      "xp": 0,
+      "morale": "9",
+      "nationality": "",
+      "rank": null
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250,
+      "pct": 2,
+      "encumbered": false,
+      "value": 5
+    }
+  },
+  "sort": 300000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/civilian.png",
+  "token": {
+    "flags": {},
+    "name": "Civilian",
+    "displayName": 0,
+    "img": "modules/owb-content/assets/default/civilian.png",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "P2GVeWjtj8vWc8ZH",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "InI2RUFDhFWW7ljA",
+      "name": "Normal Clothes",
+      "type": "armor",
+      "data": {
+        "description": "<p>Off-duty uniform or light civilian indoor clothes.</p>",
+        "ac": {
+          "value": 0
+        },
+        "aac": {
+          "value": 0
+        },
+        "type": "unarmored",
+        "equipped": false,
+        "weight": 5
+      },
+      "sort": 200000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.kP9A6PXl9Jp4WN03"
+        }
+      },
+      "img": "modules/owb-content/assets/default/clothing.png",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

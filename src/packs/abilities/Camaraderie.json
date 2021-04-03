@@ -1,0 +1,24 @@
+{
+  "name": "Camaraderie",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>the Grunt character becomes fiercely loyal to the other members of his unit. The Grunt receives a <strong>+1 bonus To-Hit</strong> whenever he is fighting alongside his companions.</p>\n<p>In addition, once per round, the Grunt may choose to partially shield one (1) companion by&nbsp; absorbing up to <strong>1/2 of the damage </strong>delivered to the character that round.</p>",
+    "save": ""
+  },
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

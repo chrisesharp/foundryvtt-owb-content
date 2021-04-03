@@ -1,0 +1,26 @@
+{
+  "_id": "pfG9rTFJj1f8BBMN",
+  "name": "Stove & Cookset",
+  "type": "item",
+  "data": {
+    "description": "<p>A portable stove and cookset designed for soldiers on extended operations.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 2
+  },
+  "sort": 1700000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/cook.png",
+  "effects": []
+}

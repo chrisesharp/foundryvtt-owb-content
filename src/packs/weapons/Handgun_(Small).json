@@ -1,0 +1,49 @@
+{
+  "_id": "o0XgqB3tAdx56sIl",
+  "name": "Handgun (Small)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 45,
+      "medium": 90,
+      "long": 270,
+      "extreme": 1080
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>This includes all small caliber handguns such as Derringers and .22 pistols.</p>",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "9mm"
+      },
+      {
+        "title": "cal",
+        "value": ".22"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 1,
+    "counter": {
+      "value": 0,
+      "max": 2
+    }
+  },
+  "sort": 1200001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/handgun.png",
+  "effects": []
+}

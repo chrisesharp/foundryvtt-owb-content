@@ -1,0 +1,26 @@
+{
+  "_id": "qLn1gop0Mclx7JYg",
+  "name": "Nazi Hate",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The &Uuml;berl&auml;ufer was conscripted by the Nazis and forced to fight, often after threats to his home and family. Because of this, &Uuml;berl&auml;ufer characters harbor a deep resentment for the German Army, and a particular hatred for the Nazi Party.</p>\n<p>&Uuml;berl&auml;ufer's receive<strong> +1 To-Hit when fighting Germans</strong>, and <strong>+2 To-Hit when fighting Nazis</strong>. This bonus increases to +2/+3 when the &Uuml;berl&auml;ufer reaches 5th level.</p>\n<p>When forced to interact closely with a Nazi such as a Gestapo agent or Waffen-SS officer, the &Uuml;berl&auml;ufer <strong>must make a Saving Throw to avoid attacking them outright.</strong></p>",
+    "save": ""
+  },
+  "sort": 1900001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

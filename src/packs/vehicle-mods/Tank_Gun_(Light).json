@@ -1,0 +1,45 @@
+{
+  "_id": "DZaH6qpuSCatMu4u",
+  "name": "Tank Gun (Light)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 300,
+      "medium": 600,
+      "long": 1800,
+      "extreme": 7200
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Light tank guns are the primary armament of light tanks, although they can also be fitted on tank destroyers. A direct hit from a light tank gun would kill any character. However, characters are difficult to target with a tank gun. Therefore, the Referee can treat a tank gun attack as an explosive (2d6+2 damage in 30' radius).</p>",
+    "damage": "8d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "40mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 250,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 1000001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/tank_gun.png",
+  "effects": []
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "cl31s7eXEB5SFtEA",
+  "name": "Machinegun (Heavy)",
+  "type": "weapon",
+  "data": {
+    "range": {
+      "short": 150,
+      "medium": 300,
+      "long": 900,
+      "extreme": 3600
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Heavy machineguns are large caliber machineguns that must be mounted on vehicles or trailers.</p>\n<p>They include the American M2 Browning, the British Vickers K, and the German MG81.</p>",
+    "damage": "2d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Burst",
+        "value": "Burst"
+      },
+      {
+        "title": "Suppress",
+        "value": "Suppress"
+      },
+      {
+        "title": "cal",
+        "value": ".303"
+      },
+      {
+        "title": "cal",
+        "value": ".50"
+      },
+      {
+        "title": "cal",
+        "value": ".7.9mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": true,
+    "suppressive": true,
+    "weight": 30,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "sort": 1700001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/hmg.png",
+  "effects": []
+}

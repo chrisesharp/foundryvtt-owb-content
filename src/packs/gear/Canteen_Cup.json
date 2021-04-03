@@ -1,0 +1,26 @@
+{
+  "_id": "9s4eX12XSdQZZy7Q",
+  "name": "Canteen & Cup",
+  "type": "item",
+  "data": {
+    "description": "<p>A metal canteen that fits inside a metal cup.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "sort": 200000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/canteen.png",
+  "effects": []
+}

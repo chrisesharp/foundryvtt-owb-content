@@ -1,0 +1,26 @@
+{
+  "_id": "UwApawko2dHGQ3Fw",
+  "name": "Mess Kit",
+  "type": "item",
+  "data": {
+    "description": "<p>This kit contains stackable plates and eating utensils.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 1
+  },
+  "sort": 1000000,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/mess_kit.png",
+  "effects": []
+}

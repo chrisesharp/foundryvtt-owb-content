@@ -1,0 +1,26 @@
+{
+  "_id": "ssoIPPm2igj2koB5",
+  "name": "Jury-rig",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Three times per day, a Combat Engineer may attempt a quick fix on a piece of machinery (such as a radio, weapon, or vehicle).</p>\n<p>These temporary repairs tend to break down quickly and in some cases can lead to the item's destruction.</p>\n<p>Jury-Rig takes one (1) round and restores a number of Hit Points to the item equal to 1d6 per Experience Level of the Combat Engineer.</p>\n<p>After 2d6 turns, the item suffers damage equal to the same amount restored by Jury-Rig.</p>\n<p>If the item does not have Hit Points, it functions normally for 2d6 rounds before overheating, warping, short-circuiting, or otherwise becoming useless.</p>",
+    "save": ""
+  },
+  "sort": 1500001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

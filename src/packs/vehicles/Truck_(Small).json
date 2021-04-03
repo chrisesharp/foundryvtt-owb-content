@@ -1,0 +1,128 @@
+{
+  "_id": "4eP97Deme8uNg5w1",
+  "name": "Truck (Small)",
+  "type": "vehicle",
+  "data": {
+    "hp": {
+      "hd": "3d6",
+      "value": 12,
+      "max": 12
+    },
+    "ac": {
+      "value": 8,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 0,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 0
+      }
+    },
+    "movement": {
+      "base": 63,
+      "encounter": 21
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": false
+    },
+    "details": {
+      "notes": "<p>This includes any small military or civilian truck or utility vehicle such as pickups, Jeeps, and Kübelwagens.</p>",
+      "modifications": []
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250
+    }
+  },
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/kubelwagen.png",
+  "token": {
+    "flags": {},
+    "name": "Truck (Small)",
+    "displayName": 0,
+    "img": "modules/owb-content/assets/default/kubelwagen.png",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "4eP97Deme8uNg5w1",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "SFaN6IOLf7S57rd6",
+      "name": "Cargo",
+      "type": "ability",
+      "data": {
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "description": "<p>The vehicle is specially designed to transport cargo. The type and amount of cargo each vehicle can carry is left to the Referee.</p>",
+        "save": ""
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.E80ur1Ywa33cpHMi"
+        }
+      },
+      "img": "modules/owb-content/assets/default/cargo.png",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

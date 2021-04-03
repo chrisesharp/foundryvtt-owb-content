@@ -1,0 +1,26 @@
+{
+  "_id": "lunJqZNYVCGLHKsw",
+  "name": "Wilderness Survival",
+  "type": "ability",
+  "data": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The &Uuml;berl&auml;ufer spent weeks living off the land as he traversed occupied territory. He has a keen sense of direction and is particularly adept at surviving in the wild, hunting game, and finding isolated places to camp and hide from German patrols.</p>",
+    "save": ""
+  },
+  "sort": 3000001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": []
+}

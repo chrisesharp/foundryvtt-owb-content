@@ -1,0 +1,28 @@
+{
+  "_id": "DOmj4KOaR3U6nA40",
+  "name": "Normal Clothes",
+  "type": "armor",
+  "data": {
+    "description": "<p>Off-duty uniform or light civilian indoor clothes.</p>",
+    "ac": {
+      "value": 0
+    },
+    "aac": {
+      "value": 0
+    },
+    "type": "unarmored",
+    "equipped": false,
+    "weight": 5
+  },
+  "sort": 400001,
+  "flags": {
+    "exportSource": {
+      "world": "owb",
+      "system": "owb",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.1.7"
+    }
+  },
+  "img": "modules/owb-content/assets/default/clothing.png",
+  "effects": []
+}
