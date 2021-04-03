@@ -500,7 +500,7 @@ function updateManifest(cb) {
 }
 
 function gitAdd() {
-  return gulp.src("package").pipe(git.add({ args: "--no-all" }));
+  return gulp.src("package").pipe(git.add());
 }
 
 function gitCommit() {
