@@ -243,10 +243,6 @@
           {
             "title": "cal",
             "value": "7.9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".30"
           }
         ],
         "missile": true,
@@ -297,10 +293,6 @@
           {
             "title": "cal",
             "value": "7.9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".30"
           }
         ],
         "missile": true,
@@ -371,10 +363,6 @@
           {
             "title": "cal",
             "value": "75mm"
-          },
-          {
-            "title": "cal",
-            "value": "95mm"
           }
         ],
         "missile": true,

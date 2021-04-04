@@ -50,7 +50,7 @@
       "movementAuto": false
     },
     "details": {
-      "notes": "<p>A tank destroyer is basically a tank gun mounted on a turretless tank chassis.</p>\n<p>Tank destroyers were used primarily to ambush tanks. In Vehicle Combat against a mobile tank, a tank destroyer always loses Initiative.</p>\n<p>Examples include the British Archer and the German Jagdpanzer.</p>",
+      "notes": "<p>Medium tanks are a compromise between the mobility of a light tank and the armor and firepower of a heavy tank. They include British Cromwells, American M4 Shermans, German Panthers, and Soviet T-34s.</p>",
       "modifications": []
     },
     "attacks": "",
@@ -70,7 +70,7 @@
   "img": "modules/owb-content/assets/default/tank_med.png",
   "token": {
     "flags": {},
-    "name": "Tank Destroyer",
+    "name": "Medium Tank",
     "displayName": 0,
     "img": "modules/owb-content/assets/default/tank_med.png",
     "tint": null,
@@ -220,10 +220,6 @@
           {
             "title": "cal",
             "value": "7.9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".30"
           }
         ],
         "missile": true,
@@ -274,10 +270,6 @@
           {
             "title": "cal",
             "value": "7.9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".30"
           }
         ],
         "missile": true,

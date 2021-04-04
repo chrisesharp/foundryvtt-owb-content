@@ -1,9 +1,9 @@
 {
   "_id": "s23q2rI5Lemnbx0x",
-  "name": "9mm Ammunition",
+  "name": ".38 Ammunition",
   "type": "item",
   "data": {
-    "description": "<p>Generic ammunition clip for a 9mm weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+    "description": "<p>Generic ammunition clip for a .38 weapon. Specific ammo should be created for each weapon to set the weight.</p>",
     "quantity": {
       "value": 10,
       "max": 10
@@ -11,7 +11,7 @@
     "tags": [
       {
         "title": "cal",
-        "value": "9mm"
+        "value": ".38"
       }
     ],
     "treasure": false,

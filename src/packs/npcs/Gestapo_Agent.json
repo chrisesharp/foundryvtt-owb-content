@@ -184,7 +184,7 @@
     },
     {
       "_id": "6MBSDSJ7QWxWF3W4",
-      "name": "Handgun (Medium)",
+      "name": "Handgun (Medium) 9mm",
       "type": "weapon",
       "data": {
         "range": {
@@ -195,17 +195,13 @@
         },
         "save": false,
         "pattern": "transparent",
-        "description": "<p>This includes all medium caliber handguns such as the .38 British Enfield Mk. II and the 9 mm Luger P 08.</p>",
+        "description": "<p>This includes all medium caliber handguns such as the 9 mm Luger P 08.</p>",
         "damage": "1d6-1",
         "bonus": 0,
         "tags": [
           {
             "title": "cal",
             "value": "9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".38"
           }
         ],
         "missile": true,

@@ -1,6 +1,6 @@
 {
-  "_id": "lHtLGmzITeVK6YHq",
-  "name": "M1 Garand",
+  "_id": "FXHlxfu09vYbKryb",
+  "name": "Rifle (Large) .303",
   "type": "weapon",
   "data": {
     "range": {
@@ -11,8 +11,8 @@
     },
     "save": false,
     "pattern": "transparent",
-    "description": "",
-    "damage": "1d6 + 1",
+    "description": "<p>This includes most military rifles including the British bolt-action Lee-Enfield Mk. III, the American semi-automatic M1 Garand.</p>",
+    "damage": "1d6+1",
     "bonus": 0,
     "tags": [
       {
@@ -35,7 +35,7 @@
       "max": 1
     }
   },
-  "sort": 1600001,
+  "sort": 2200001,
   "flags": {
     "exportSource": {
       "world": "owb",

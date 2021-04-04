@@ -277,7 +277,7 @@
     },
     {
       "_id": "yeXQbHV58Z56u69p",
-      "name": "Handgun (Medium)",
+      "name": "Handgun (Medium) 9mm",
       "type": "weapon",
       "data": {
         "range": {
@@ -288,17 +288,13 @@
         },
         "save": false,
         "pattern": "transparent",
-        "description": "<p>This includes all medium caliber handguns such as the .38 British Enfield Mk. II and the 9 mm Luger P 08.</p>",
+        "description": "<p>This includes all medium caliber handguns such as the 9 mm Luger P 08.</p>",
         "damage": "1d6-1",
         "bonus": 0,
         "tags": [
           {
             "title": "cal",
             "value": "9mm"
-          },
-          {
-            "title": "cal",
-            "value": ".38"
           }
         ],
         "missile": true,
@@ -323,7 +319,7 @@
     },
     {
       "_id": "R8t5EVbOutjWLeOh",
-      "name": "Rifle (Large)",
+      "name": "Rifle (Large) 9mm",
       "type": "weapon",
       "data": {
         "range": {
@@ -334,17 +330,13 @@
         },
         "save": false,
         "pattern": "transparent",
-        "description": "<p>This includes most military rifles including the British bolt-action Lee-Enfield Mk. III, the American semi-automatic M1 Garand, and the German bolt-action Karabiner-98k.</p>",
+        "description": "<p>This includes most military rifles including the German bolt-action Karabiner-98k.</p>",
         "damage": "1d6+1",
         "bonus": 0,
         "tags": [
           {
             "title": "Burst",
             "value": "Burst"
-          },
-          {
-            "title": "cal",
-            "value": ".303"
           },
           {
             "title": "cal",
