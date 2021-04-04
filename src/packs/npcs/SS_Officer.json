@@ -203,7 +203,7 @@
     },
     {
       "_id": "wKsGKQuplqITidHw",
-      "name": "Handgun (Medium) 9mm",
+      "name": "Handgun (Medium)",
       "type": "weapon",
       "data": {
         "range": {
@@ -245,7 +245,7 @@
     },
     {
       "_id": "3H02h2Fl1jBEwi1Z",
-      "name": "Rifle (Large) 9mm",
+      "name": "Rifle (Large)",
       "type": "weapon",
       "data": {
         "range": {

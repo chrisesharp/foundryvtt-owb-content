@@ -1,8 +1,8 @@
 {
-  "name": "12ga shotgun cartridge",
+  "name": "7.9mm Ammunition",
   "type": "item",
   "data": {
-    "description": "<p>Generic shotgun cartridge for a 12ga weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+    "description": "<p>Generic ammunition clip for a 7.9mm weapon. Specific ammo should be created for each weapon to set the weight.</p>",
     "quantity": {
       "value": 10,
       "max": 10
@@ -10,7 +10,7 @@
     "tags": [
       {
         "title": "cal",
-        "value": "12ga"
+        "value": "7.9mm"
       }
     ],
     "treasure": false,
