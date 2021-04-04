@@ -172,7 +172,7 @@ function buildSASS() {
 
 async function compilePacks() {
   const PACK_SRC = "src/packs";
-  const BUILD_DIR = "build";
+  const BUILD_DIR = "dist/packs";
   // determine the source folders to process
   const folders = fs.readdirSync(PACK_SRC).filter((file) => {
     return fs.statSync(path.join(PACK_SRC, file)).isDirectory();
@@ -180,26 +180,40 @@ async function compilePacks() {
 
   // process each folder into a compendium db
   const packs = folders.map((folder) => {
-    let filename = path.resolve(__dirname, BUILD_DIR, "packs", `${folder}.db`);
+    const removeProp = (obj, propToDelete) => {
+      for (var property in obj) {
+         if (typeof obj[property] == "object") {
+            let objectToCheck = obj[property];
+            delete obj[property]
+            if (property !== propToDelete) {
+              let newJsonData= removeProp(objectToCheck, propToDelete);
+              obj[property]= newJsonData
+            }
+         } else {
+             if (property === propToDelete) {
+               delete obj[property];
+             }
+           }
+       }
+       return obj
+    }
+
+    let filename = path.resolve(__dirname, BUILD_DIR, `${folder}.db`);
     if (fs.existsSync(filename)) { fs.unlinkSync(filename);}
     const db = new Datastore({ filename: filename, autoload: true });
     const globs = [path.join(PACK_SRC, folder, "*.json"), path.join(PACK_SRC, folder, "*.yml")];
     return gulp.src(globs)
     .pipe(
       through2.obj((file, enc, cb) => {
-        // console.log("here in ",folder, " with file ", path.basename(file.path))
         let json = {};
         if (path.extname(file.path) === ".json") {
           let orig_json = JSON.parse(file.contents.toString());
-          json.name = orig_json.name;
-          json.type = orig_json.type;
-          json.img = orig_json.img;
-          json.data = orig_json.data;
-          json.content = orig_json.content;
+          json = removeProp(orig_json, "_id");
+          json = removeProp(json, "sort");
+          json = removeProp(json, "flags");
         } else {
           json = yaml.loadAll(file.contents.toString());
         }
-        // console.log(`..adding ${json.name} to ${folder} pack`);
         db.insert(json);
         cb();
       })
@@ -223,18 +237,11 @@ async function copyFiles() {
     "system.json",
     "template.json"
   ];
-  const build_content = [
-    "packs"
-  ]
+
   try {
     for (const file of src_statics) {
       if (fs.existsSync(path.join("src", file))) {
         await fs.copy(path.join("src", file), path.join("dist", file));
-      }
-    }
-    for (const file of build_content) {
-      if (fs.existsSync(path.join("build", file))) {
-        await fs.copy(path.join("build", file), path.join("dist", file));
       }
     }
     return Promise.resolve();
