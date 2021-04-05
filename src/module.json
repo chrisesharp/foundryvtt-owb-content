@@ -74,6 +74,13 @@
       "module": "owb-content"
     }
   ],
+  "dependencies": [
+    {
+      "name": "owb",
+      "type": "system",
+      "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb/master/src/system.json"
+    }
+  ],
   "minimumCoreVersion": "0.7.8",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/chrisesharp/foundryvtt-owb-content",
