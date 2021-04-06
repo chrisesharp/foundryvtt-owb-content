@@ -2,7 +2,7 @@
 
 ![OWBCL](src/assets/OWBCL.webp)
 
-This module adds precreated weapons, gear, vehicles, NPCs and more in your Foundry VTT OWB:WW2 game.
+This module adds classes and abilities, plus sample weapons, gear, vehicles, NPCs and more in your Foundry VTT OWB:WW2 game.
 
 ## Installation
 
