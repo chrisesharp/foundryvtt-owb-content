@@ -1,6 +1,6 @@
 # Base Content for WWII:OWB for Foundry VTT (Unofficial)
 
-![OWBCL](assets/OWBCL.webp)
+![OWBCL](src/assets/OWBCL.webp)
 
 This module adds precreated weapons, gear, vehicles, NPCs and more in your Foundry VTT OWB:WW2 game.
 
