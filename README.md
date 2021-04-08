@@ -89,5 +89,9 @@ Used with permission under license.
 - soldier by Simon Child.
 - User by Simon Child.
 - Man by Simon Child.
+- Woman by Simon Child.
+- Handyman by Simon Child.
+- Captain by Simon Child.
 - Detective by Hey Rabbit.
 - german shepherd by parkjisun.
+- old man by Jhonatan.
