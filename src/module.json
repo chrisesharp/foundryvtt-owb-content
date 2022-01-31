@@ -2,7 +2,7 @@
   "name": "owb-content",
   "title": "WWII:OWB OGL Content",
   "description": "Open Game Licensed content OWB:WW2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "systems": ["owb"],
   "author": "chrisesharp",
   "scripts": [],
@@ -82,8 +82,8 @@
     }
   ],
   "minimumCoreVersion": "0.7.10",
-  "compatibleCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
   "url": "https://github.com/chrisesharp/foundryvtt-owb-content",
   "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json",
-  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/package/owb-content-v1.0.2.zip"
+  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/package/owb-content-v1.0.3.zip"
 }

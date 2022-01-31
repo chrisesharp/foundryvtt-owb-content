@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 31/1/22
+
+### Added
+
+### Changed
+
+- Bumped version compatibility
+- Removed `burst` tag from .303 Rifle
+
+### Removed
+
 ## [1.0.2] - 14/6/21
 
 ### Added
