@@ -77,7 +77,7 @@
       {
         "id": "owb",
         "type": "system",
-        "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb/master/src/system.json"
+        "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json"
       }
     ]
   },
