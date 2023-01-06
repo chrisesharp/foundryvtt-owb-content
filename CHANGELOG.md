@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 6/1/23
+
+### Added
+
+### Changed
+
+- added missing `id` tag
+
 ## [1.0.7] - 28/12/22
 
 ### Added
