@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.9] - 31/5/23
+
+### Changed
+- V11 support
+
 ## [1.0.8] - 6/1/23
 
 ### Added
