@@ -95,3 +95,5 @@ Used with permission under license.
 - Detective by Hey Rabbit.
 - german shepherd by parkjisun.
 - old man by Jhonatan.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6T5AXX)
