@@ -1,4 +1,4 @@
 #!/bin/sh
 
-export VERSION=0.1.4
+export VERSION=1.1.0
 zip -r package/owb-content-v${VERSION}.zip ./packs module.json ./assets/
