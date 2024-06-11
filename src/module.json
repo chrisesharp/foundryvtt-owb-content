@@ -1,5 +1,4 @@
 {
-  "name": "owb-content",
   "id": "owb-content",
   "title": "WWII:OWB OGL Content",
   "description": "Open Game Licensed content OWB:WW2",
@@ -86,7 +85,6 @@
     "minimum": 11,
     "verified": 12
   },
-  "author": "chrisesharp",
   "authors": [
     {
       "name": "chrisesharp",
