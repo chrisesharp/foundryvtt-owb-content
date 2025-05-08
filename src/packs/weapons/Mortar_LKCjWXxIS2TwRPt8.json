@@ -1,0 +1,54 @@
+{
+  "name": "Mortar",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/mortar.png",
+  "effects": [],
+  "_id": "LKCjWXxIS2TwRPt8",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 300,
+      "medium": 600,
+      "long": 1800,
+      "extreme": 7200
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>A mortar is an indirect-fire weapon used to support infantry operations. It fires an explosive shell at an arcing angle into the air, so is ineffective indoors and less effective in thick forests. The shells are muzzle loaded and drop-fired.</p>\n<p>Mortars have a minimum range of 300 ft. and cannot normally be fired at targets closer than that. Mortars are mounted on bipods or tripods and require a crew of at least two to operate effectively. If only the gunner is present, double the Rate of Fire.</p>\n<p>Examples include the British Ordnance SBML, American M1, and the German Granatwerfer 42.</p>",
+    "damage": "2d6+2",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "81mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 45,
+    "counter": {
+      "value": 0,
+      "max": 0.5
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!LKCjWXxIS2TwRPt8"
+}

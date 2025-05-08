@@ -1,0 +1,35 @@
+{
+  "name": "Firing Port",
+  "type": "ability",
+  "img": "modules/owb-content/assets/default/port.png",
+  "effects": [],
+  "_id": "0cjuQILMfoLeDTuW",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "Reinforced Hull",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>This modification can only be installed in a vehicle with a Reinforced Hull (see below). It creates up to six (6) ports from which characters may fire weapons from the safety of the vehicle. Attackers suffer a -4 penalty To-Hit characters inside the vehicle (per partial cover, pg. 49).</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!0cjuQILMfoLeDTuW"
+}

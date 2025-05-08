@@ -1,0 +1,35 @@
+{
+  "name": "Radio (Handheld)",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/radio_sm.png",
+  "effects": [],
+  "_id": "JCt0P0SKoCvrJ1aH",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>This portable radio transceiver was the first self-contained handheld. It has a reliable range of approximately 1 mile.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!JCt0P0SKoCvrJ1aH"
+}

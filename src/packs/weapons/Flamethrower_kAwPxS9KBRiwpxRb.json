@@ -1,0 +1,49 @@
+{
+  "name": "Flamethrower",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/fire.png",
+  "effects": [],
+  "_id": "kAwPxS9KBRiwpxRb",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 6,
+      "medium": 12,
+      "long": 36,
+      "extreme": 144
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Flamethrowers are backpack-mounted weapons that produce a cone of flame approximately 15' wide. Anyone caught within this cone suffers 1d6 damage (no Attack Roll needed). In addition, the target must make a Saving Throw or else catch fire, suffering 1d6 damage each round for the next 1d6 rounds or until the flames are extinguished.</p>\n<p>If the flamethrower operator takes damage, there is a 1 in 3 chance the tanks rupture and explode, causing 2d6+2 damage to everyone within a 15' radius.</p>\n<p>The operator takes full damage from this explosion, but anyone else in the area of effect may make Saving Throws to lessen or avoid damage (see Saving Throws vs. Explosives, pg. 52). Flamethrowers are typically good for 1d6 blasts before needing to be refueled.</p>\n<p>Examples include the British Portable No.2 \"lifebuoy\", the American M2, and the German Flammenwerfer 35.</p>",
+    "damage": "1d6+1",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 70,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!kAwPxS9KBRiwpxRb"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Mechanical Understanding",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "6wrV4bt2vlfllKj8",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Combat Engineers have a natural understanding of all things technical and mechanical. At the Referee&rsquo;s discretion, they may receive bonuses or increased chances of success when dealing with machinery and technology such as vehicles, weapons, and radios.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6wrV4bt2vlfllKj8"
+}

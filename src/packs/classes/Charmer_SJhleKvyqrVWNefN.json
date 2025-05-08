@@ -1,0 +1,63 @@
+{
+  "name": "Charmer",
+  "_id": "SJhleKvyqrVWNefN",
+  "pages": [
+    {
+      "name": "Charmer",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Charmers rely on a combination of wits and natural charisma to influence others and avoid trouble. They may be naïve farm boys from Kansas who possess boyish good looks, famous Hollywood performers (actors, musicians, etc.), or refined British gentlemen.</p>\n<p>Charmers can attract allies, read people like books, and talk their way out of (or into) almost anything.</p>\n<p>Charmers often play support roles in operations, acting as negotiators, translators, and liaisons. They avoid direct combat if possible, but are capable of pulling their weight in a fight.</p>\n<p> </p>\n<h2>Advancement</h2>\n<p> </p>\n<table style=\"width:503px;border-style:solid;margin-left:auto;margin-right:auto;height:107px\" border=\"1\">\n<tbody>\n<tr style=\"height:27px\">\n<td style=\"width:96px;text-align:center;height:27px\">\n<h3>Level</h3>\n</td>\n<td style=\"width:84px;text-align:center;height:27px\">\n<h3> XP</h3>\n</td>\n<td style=\"width:87px;text-align:center;height:27px\">\n<h3> HD</h3>\n</td>\n<td style=\"width:114px;text-align:center;height:27px\">\n<h3> BHB</h3>\n</td>\n<td style=\"width:114px;text-align:center;height:27px\">\n<h3> ST</h3>\n</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">1</td>\n<td style=\"width:84px;height:16px;text-align:center\">0</td>\n<td style=\"width:87px;height:16px;text-align:center\">1</td>\n<td style=\"width:114px;height:16px;text-align:center\">0</td>\n<td style=\"width:114px;height:16px;text-align:center\">15</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">2</td>\n<td style=\"width:84px;height:16px;text-align:center\">1250</td>\n<td style=\"width:87px;height:16px;text-align:center\">2</td>\n<td style=\"width:114px;height:16px;text-align:center\">0</td>\n<td style=\"width:114px;height:16px;text-align:center\">14</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">3</td>\n<td style=\"width:84px;height:16px;text-align:center\">2500</td>\n<td style=\"width:87px;height:16px;text-align:center\">3+1</td>\n<td style=\"width:114px;height:16px;text-align:center\">1</td>\n<td style=\"width:114px;height:16px;text-align:center\">13</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">4</td>\n<td style=\"width:84px;height:16px;text-align:center\">5000</td>\n<td style=\"width:87px;height:16px;text-align:center\">4</td>\n<td style=\"width:114px;height:16px;text-align:center\">1</td>\n<td style=\"width:114px;height:16px;text-align:center\">12</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">5</td>\n<td style=\"width:84px;height:16px;text-align:center\">10000</td>\n<td style=\"width:87px;height:16px;text-align:center\">5</td>\n<td style=\"width:114px;height:16px;text-align:center\">2</td>\n<td style=\"width:114px;height:16px;text-align:center\">11</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Abilities</h2>\n<ul>\n<li>Friendly Demeanour</li>\n<li>Smooth Operator</li>\n<li>Detect Deception</li>\n<li>Loyal Allies (3rd Level)</li>\n</ul>\n<h2><br />Saving Throws</h2>\n<ul>\n<li>Charmers receive a <strong>+2 </strong>bonus to all Saving Throws made to resist attempts to influence them or detect when they are being deceptive.</li>\n</ul>\n<h2><br />XP Bonus</h2>\n<ul>\n<li>Charmers with a Charisma of 13 or 14 receive a 5% Experience Bonus, and those with 15 or higher get 10%.</li>\n</ul>"
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "5WvCcPuSVgwKWY6O",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!SJhleKvyqrVWNefN.5WvCcPuSVgwKWY6O"
+    }
+  ],
+  "categories": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!journal!SJhleKvyqrVWNefN"
+}

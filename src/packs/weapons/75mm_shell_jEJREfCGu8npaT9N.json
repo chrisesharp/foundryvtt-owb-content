@@ -1,0 +1,40 @@
+{
+  "name": "75mm shell",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "jEJREfCGu8npaT9N",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Shell for a Jagdpanzer 7.5cm KwK 42 tank gun.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": "75mm"
+      }
+    ],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jEJREfCGu8npaT9N"
+}

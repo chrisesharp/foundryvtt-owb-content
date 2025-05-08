@@ -1,0 +1,35 @@
+{
+  "name": "Field Rations (1-day)",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/food.png",
+  "effects": [],
+  "_id": "NGiP9YPErTJibXIA",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>These canned, bland-tasting, precooked rations were issued to most military troops in one form or another. They were initially intended to be used sparingly, but food shortages and issues with supply lines sometimes forced soldiers to eat field rations for weeks at a time.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!NGiP9YPErTJibXIA"
+}

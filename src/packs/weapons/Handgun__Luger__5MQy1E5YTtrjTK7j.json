@@ -1,0 +1,54 @@
+{
+  "name": "Handgun (Luger)",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/handgun.png",
+  "effects": [],
+  "_id": "5MQy1E5YTtrjTK7j",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 75,
+      "medium": 150,
+      "long": 450,
+      "extreme": 1800
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>This includes all medium caliber handguns such as the 9 mm Luger P 08.</p>",
+    "damage": "1d6-1",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "cal",
+        "value": "9mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 2,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!5MQy1E5YTtrjTK7j"
+}

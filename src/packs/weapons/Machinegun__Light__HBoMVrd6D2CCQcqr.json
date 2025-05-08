@@ -1,0 +1,62 @@
+{
+  "name": "Machinegun (Light)",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/lmg.png",
+  "effects": [],
+  "_id": "HBoMVrd6D2CCQcqr",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 150,
+      "medium": 300,
+      "long": 900,
+      "extreme": 3600
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>These portable machineguns are normally mounted on bipods or tripods.&nbsp; If fired without being mounted, a light machinegun is only capable of burst fire.</p>\n<p>They include the British Bren, the American M1918 Browning (BAR), and the German MG26.</p>",
+    "damage": "1d6+1",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Burst",
+        "value": "Burst"
+      },
+      {
+        "title": "Suppress",
+        "value": "Suppress"
+      },
+      {
+        "title": "cal",
+        "value": "7.9mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": true,
+    "suppressive": true,
+    "weight": 20,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!HBoMVrd6D2CCQcqr"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fine Clothes",
+  "type": "armor",
+  "img": "modules/owb-content/assets/default/clothing.png",
+  "effects": [],
+  "_id": "fTcjVKcsWcciaGIm",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Expensive clothing and footwear worn mainly by wealthy civilians. Tends to be flimsy.</p>",
+    "ac": {
+      "value": 0
+    },
+    "aac": {
+      "value": 0
+    },
+    "type": "unarmored",
+    "equipped": false,
+    "weight": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!fTcjVKcsWcciaGIm"
+}

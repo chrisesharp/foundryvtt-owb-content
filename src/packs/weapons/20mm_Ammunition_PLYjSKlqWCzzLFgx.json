@@ -1,0 +1,40 @@
+{
+  "name": "20mm Ammunition",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "PLYjSKlqWCzzLFgx",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Rounds for an autocannon.</p>",
+    "quantity": {
+      "value": 100,
+      "max": 100
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": "20mm"
+      }
+    ],
+    "treasure": false,
+    "weight": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PLYjSKlqWCzzLFgx"
+}

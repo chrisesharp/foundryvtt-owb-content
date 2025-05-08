@@ -1,0 +1,63 @@
+{
+  "name": "Uberlaufer",
+  "_id": "QUVpWWd1u2dHvMX9",
+  "pages": [
+    {
+      "name": "Uberlaufer",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Überläufers are Eastern European (German, Polish, Czech, etc.) soldiers who have defected from the German Army and agreed to join the Allied operatives. They can still pass as German military and can be especially useful on deep infiltration missions. Überläufers are sometimes viewed with prejudice and distrust by their fellow operatives, but most tend to take this in stride.</p>\n<p>Überläufers typically hold a strong hatred for the Nazi Party. They do not hesitate to engage German forces, but have a (mostly unjustified) reputation as either being overzealous and quick to anger or as cowards who flee in the face of adversity. Überläufers tend to be tough and hardy from harsh living conditions.</p>\n<h2>Advancement</h2>\n<table style=\"width:503px;border-style:solid;margin-left:auto;margin-right:auto;height:107px\" border=\"1\">\n<tbody>\n<tr style=\"height:27px\">\n<td style=\"width:96px;text-align:center;height:27px\">\n<h3>Level</h3>\n</td>\n<td style=\"width:84px;text-align:center;height:27px\">\n<h3> XP</h3>\n</td>\n<td style=\"width:87px;text-align:center;height:27px\">\n<h3> HD</h3>\n</td>\n<td style=\"width:114px;text-align:center;height:27px\">\n<h3> BHB</h3>\n</td>\n<td style=\"width:114px;text-align:center;height:27px\">\n<h3> ST</h3>\n</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">1</td>\n<td style=\"width:84px;height:16px;text-align:center\">0</td>\n<td style=\"width:87px;height:16px;text-align:center\">2 + 1</td>\n<td style=\"width:114px;height:16px;text-align:center\">0</td>\n<td style=\"width:114px;height:16px;text-align:center\">13</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">2</td>\n<td style=\"width:84px;height:16px;text-align:center\">2500</td>\n<td style=\"width:87px;height:16px;text-align:center\">3 + 1</td>\n<td style=\"width:114px;height:16px;text-align:center\">1</td>\n<td style=\"width:114px;height:16px;text-align:center\">12</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">3</td>\n<td style=\"width:84px;height:16px;text-align:center\">5000</td>\n<td style=\"width:87px;height:16px;text-align:center\">4 + 2</td>\n<td style=\"width:114px;height:16px;text-align:center\">2</td>\n<td style=\"width:114px;height:16px;text-align:center\">11</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">4</td>\n<td style=\"width:84px;height:16px;text-align:center\">10000</td>\n<td style=\"width:87px;height:16px;text-align:center\">5 + 1</td>\n<td style=\"width:114px;height:16px;text-align:center\">2</td>\n<td style=\"width:114px;height:16px;text-align:center\">10</td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:96px;height:16px;text-align:center\">5</td>\n<td style=\"width:84px;height:16px;text-align:center\">20000</td>\n<td style=\"width:87px;height:16px;text-align:center\">6 + 1</td>\n<td style=\"width:114px;height:16px;text-align:center\">3</td>\n<td style=\"width:114px;height:16px;text-align:center\">9</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Abilities</h2>\n<ul>\n<li>Wehrmacht Understanding</li>\n<li>Nazi Hate</li>\n<li>Wilderness Survival</li>\n<li>Hero's Welcome (3rd level)</li>\n</ul>\n<h2><br />Saving Throws</h2>\n<ul>\n<li>\n<p>Überläufers receive a +2 bonus to all Saving Throws made to resist the effects of poisons, disease, hunger, or extreme exposure to the elements.</p>\n</li>\n</ul>\n<h2>XP Bonus</h2>\n<ul>\n<li>\n<p>Überläufers with a Constitution of 13 or 14 receive a 5% Experience Bonus, and those with 15 or higher get 10%.</p>\n</li>\n</ul>"
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "lTTCxExAuqdtc1F3",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!QUVpWWd1u2dHvMX9.lTTCxExAuqdtc1F3"
+    }
+  ],
+  "categories": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!journal!QUVpWWd1u2dHvMX9"
+}

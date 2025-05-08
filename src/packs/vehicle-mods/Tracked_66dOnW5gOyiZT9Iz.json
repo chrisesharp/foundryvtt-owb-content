@@ -1,0 +1,35 @@
+{
+  "name": "Tracked",
+  "type": "ability",
+  "img": "modules/owb-content/assets/default/tracks.png",
+  "effects": [],
+  "_id": "66dOnW5gOyiZT9Iz",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The vehicle is equipped with tracks (or half-tracks) instead of tyres making it much more capable of traveling over rough terrain.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!66dOnW5gOyiZT9Iz"
+}

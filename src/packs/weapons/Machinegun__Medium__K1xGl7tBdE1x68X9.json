@@ -1,0 +1,62 @@
+{
+  "name": "Machinegun (Medium)",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/mmg.png",
+  "effects": [],
+  "_id": "K1xGl7tBdE1x68X9",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 150,
+      "medium": 300,
+      "long": 900,
+      "extreme": 3600
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>These machineguns must be mounted on bipods, tripods, or vehicles.</p>\n<p>They include the British Vickers gun, the American M1919 Browning, and the German MG34 and MG42.</p>",
+    "damage": "1d6+2",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Burst",
+        "value": "Burst"
+      },
+      {
+        "title": "Suppress",
+        "value": "Suppress"
+      },
+      {
+        "title": "cal",
+        "value": "7.9mm"
+      }
+    ],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": true,
+    "suppressive": true,
+    "weight": 25,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!K1xGl7tBdE1x68X9"
+}

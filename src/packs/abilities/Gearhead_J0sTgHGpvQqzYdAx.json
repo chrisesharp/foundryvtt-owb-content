@@ -1,0 +1,35 @@
+{
+  "name": "Gearhead",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "J0sTgHGpvQqzYdAx",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Once a Wheelman reaches 3rd level he may modify his vehicle beyond its stock Statistics. This includes adding weapons, armor, speed, modifications, etc. How long this takes and what it involves are determined by the Referee.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!J0sTgHGpvQqzYdAx"
+}

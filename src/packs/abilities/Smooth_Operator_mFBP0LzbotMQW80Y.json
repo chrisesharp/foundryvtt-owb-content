@@ -1,0 +1,35 @@
+{
+  "name": "Smooth Operator",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "mFBP0LzbotMQW80Y",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The Charmer is a smooth talker who can influence others just by speaking to them. The Charmer must speak the language of the person he is trying to influence and can only influence one person at a time.</p>\n<p>If the Charmer talks to the person for one (1) round, the target must make a Saving Throw. If the roll fails, the target believes the Charmer to be an honest friend and ally.</p>\n<p>The target believes any plausible lie and may even risk his life to protect the Charmer. This effect lasts until the Charmer betrays the NPC or there is overwhelming evidence that the Charmer is an enemy.</p>",
+    "save": "true"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!mFBP0LzbotMQW80Y"
+}

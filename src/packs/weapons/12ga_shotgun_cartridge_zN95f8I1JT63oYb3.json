@@ -1,0 +1,40 @@
+{
+  "name": "12ga shotgun cartridge",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "zN95f8I1JT63oYb3",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Generic shotgun cartridge for a 12ga weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": "12ga"
+      }
+    ],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!zN95f8I1JT63oYb3"
+}

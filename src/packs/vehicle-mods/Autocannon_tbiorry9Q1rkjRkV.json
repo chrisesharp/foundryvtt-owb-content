@@ -1,0 +1,49 @@
+{
+  "name": "Autocannon",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/tank_gun.png",
+  "effects": [],
+  "_id": "tbiorry9Q1rkjRkV",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 300,
+      "medium": 600,
+      "long": 1800,
+      "extreme": 7200
+    },
+    "save": true,
+    "pattern": "transparent",
+    "description": "<p>Autocannons are large, fully automatic cannons that fire explosive shells instead of bullets. They can be mounted on vehicles or railers.</p>\n<p>Autocannons are capable of burst fire and suppressive fire when used against vehicles. A direct hit from an autocannon shell would kill any character. However, characters are difficult to target with autocannons. Therefore, the Referee can treat an autocannon attack as an explosive (2d6+2 damage in 30' radius).</p>",
+    "damage": "2d6 + 2",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 250,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tbiorry9Q1rkjRkV"
+}

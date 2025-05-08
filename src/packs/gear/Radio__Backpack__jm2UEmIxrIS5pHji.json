@@ -1,0 +1,35 @@
+{
+  "name": "Radio (Backpack)",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/radio_lg.png",
+  "effects": [],
+  "_id": "jm2UEmIxrIS5pHji",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>This portable radio transceiver was mounted on a backpack. It has a reliable range of approximately 3 miles.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 40
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jm2UEmIxrIS5pHji"
+}

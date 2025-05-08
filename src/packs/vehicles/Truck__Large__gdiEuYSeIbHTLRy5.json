@@ -1,0 +1,212 @@
+{
+  "name": "Truck (Large)",
+  "type": "vehicle",
+  "img": "modules/owb-content/assets/default/truck.png",
+  "items": [
+    {
+      "name": "Cargo",
+      "type": "ability",
+      "img": "modules/owb-content/assets/default/cargo.png",
+      "effects": [],
+      "_id": "dVjJpU4fFAJGGtjY",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "description": "<p>The vehicle is specially designed to transport cargo. The type and amount of cargo each vehicle can carry is left to the Referee.</p>",
+        "save": ""
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!gdiEuYSeIbHTLRy5.dVjJpU4fFAJGGtjY"
+    }
+  ],
+  "effects": [],
+  "_id": "gdiEuYSeIbHTLRy5",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "hp": {
+      "hd": "4d6",
+      "value": 16,
+      "max": 16
+    },
+    "ac": {
+      "value": 8,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 0,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 0
+      }
+    },
+    "movement": {
+      "base": 45,
+      "encounter": 15
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": false
+    },
+    "details": {
+      "notes": "<p>Large trucks include any type of large cargo transport, tractor trailer, or box truck such as the German Opel Blitz, the British Bedford OY, or the American GMC CCKW (a.k.a. Deuce and a Half).</p>",
+      "modifications": []
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250
+    }
+  },
+  "prototypeToken": {
+    "name": "Truck (Small)",
+    "displayName": 0,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "randomImg": false,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 1,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "modules/owb-content/assets/default/truck.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "rotation": 0,
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "alpha": 1,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!actors!gdiEuYSeIbHTLRy5"
+}

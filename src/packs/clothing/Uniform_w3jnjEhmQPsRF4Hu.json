@@ -1,0 +1,37 @@
+{
+  "name": "Uniform",
+  "type": "armor",
+  "img": "modules/owb-content/assets/default/clothing.png",
+  "effects": [],
+  "_id": "w3jnjEhmQPsRF4Hu",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Formal military uniform worn for parades, balls, and other functions.</p>",
+    "ac": {
+      "value": 0
+    },
+    "aac": {
+      "value": 0
+    },
+    "type": "unarmored",
+    "equipped": false,
+    "weight": 7
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!w3jnjEhmQPsRF4Hu"
+}

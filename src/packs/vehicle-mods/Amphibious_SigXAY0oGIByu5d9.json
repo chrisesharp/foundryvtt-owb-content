@@ -1,0 +1,35 @@
+{
+  "name": "Amphibious",
+  "type": "ability",
+  "img": "modules/owb-content/assets/default/amphib.png",
+  "effects": [],
+  "_id": "SigXAY0oGIByu5d9",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>This modification enables a ground vehicle to travel for short distances on the surface of the water.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SigXAY0oGIByu5d9"
+}

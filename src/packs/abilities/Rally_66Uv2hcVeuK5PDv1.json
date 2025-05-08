@@ -1,0 +1,35 @@
+{
+  "name": "Rally",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "66Uv2hcVeuK5PDv1",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The Tactician is able to rally his men through words and deeds. Often this is done by a rousing speech before a battle commences or by barking out orders and showing disdain for the enemy in the midst of the fighting.</p>\n<p>Rally takes one (1) round to initiate. It grants the Tactician's allies a -1 [+1] bonus to their Armor Class and +1 To-Hit. At 3rd level, this bonus increases to -2 [+2] Armor Class and +2 To-Hit.</p>\n<p>This ability may be used a number of times per day equal to the Tactician's Experience Level and the effects last for six (6) turns.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!66Uv2hcVeuK5PDv1"
+}

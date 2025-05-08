@@ -1,0 +1,35 @@
+{
+  "name": "Tea Bucket",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/tea_pot.png",
+  "effects": [],
+  "_id": "43RiGwpqf8XBHiPs",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>A small, stainless steel container used specifically for brewing tea.</p>\n<p>Issued mainly to British and European troops.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!43RiGwpqf8XBHiPs"
+}

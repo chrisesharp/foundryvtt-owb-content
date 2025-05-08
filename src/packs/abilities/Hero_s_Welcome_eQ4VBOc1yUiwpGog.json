@@ -1,0 +1,35 @@
+{
+  "name": "Hero's Welcome",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "eQ4VBOc1yUiwpGog",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "2d6",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Once an &Uuml;berl&auml;ufer reaches 3rd level, the people of his homeland consider him a hero.<strong> 2d6</strong> young men from his hometown (or village, city, etc.) join the Allied forces and are assigned to assist the &Uuml;berl&auml;ufer. If the character manages to survive the war, he is sure to return home with honor.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eQ4VBOc1yUiwpGog"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zippo Lighter",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/zippo.png",
+  "effects": [],
+  "_id": "bsgBJb9b7eU3F1xj",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>An iconic lighter issued to military personnel. Possesses a black crackle finish that doesn't reflect light.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!bsgBJb9b7eU3F1xj"
+}

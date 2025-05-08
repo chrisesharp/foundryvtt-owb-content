@@ -1,0 +1,54 @@
+{
+  "name": "Hatchet",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/hatchet.png",
+  "effects": [],
+  "_id": "ozsEX8VVUmBYmd10",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 6,
+      "medium": 12,
+      "long": 36,
+      "extreme": 144
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>A hatchet is a small utility axe used mainly for cutting wood and clearing land.</p>",
+    "damage": "1d4+1",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Melee",
+        "value": "Melee"
+      }
+    ],
+    "missile": true,
+    "melee": true,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 3,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ozsEX8VVUmBYmd10"
+}

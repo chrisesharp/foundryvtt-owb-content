@@ -1,0 +1,35 @@
+{
+  "name": "Wehrmacht Understanding",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "AfVHgIt09RORV7zQ",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>&Uuml;berl&auml;ufers were conscripted by the Germans and are familiar with the inner workings of the German military. At the Referee&rsquo;s discretion, they may receive bonuses or increased chances of success when attempting to locate or deal with anything related to the German military, including its ranks, tactics, and customs. This information can prove extremely beneficial when drafting mission plans.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!AfVHgIt09RORV7zQ"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Wire Cutters",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/cutters.png",
+  "effects": [],
+  "_id": "mMmGeYk2GCmSbZ4N",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Insulated wire cutters were perfect for cutting through barbed wire and electric fencing. Comes with a canvas pouch.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!mMmGeYk2GCmSbZ4N"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Demolitions",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "aE2xPDw5a3PvZgPP",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>All special forces operatives are trained in the use of plastic explosives and other ordnance.</p>\n<p>The Combat Engineer is additionally skilled in the use of advanced techniques such as blowing safes, doors, and even buildings with little to no damage to the contents or surroundings.</p>\n<p>When Static Explosives are used to cause damage to persons or vehicles, the Combat Engineer <strong>doubles</strong> the amount of damage delivered.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!aE2xPDw5a3PvZgPP"
+}

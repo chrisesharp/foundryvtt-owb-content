@@ -1,0 +1,35 @@
+{
+  "name": "Fast and Furious",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "REa6poP6pzTjR6Il",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>At the beginning of each Vehicle Combat round, a Wheelman operating a vehicle may temporarily add<strong> +1 </strong>to any one of the <strong>vehicle's Armor Class, Movement, To-Hit, or Weapon Damage</strong>. He may choose which statistic to modify each round, selecting a different one each time. At 3rd level a Wheelman may add a total of +2 to any combination of the vehicle's statistics each round. At 5th level a Wheelman may add a total of +3 to any combination of the vehicle&rsquo;s statistics each round.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!REa6poP6pzTjR6Il"
+}

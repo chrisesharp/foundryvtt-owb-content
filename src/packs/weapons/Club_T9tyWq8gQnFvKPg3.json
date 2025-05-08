@@ -1,0 +1,54 @@
+{
+  "name": "Club",
+  "type": "weapon",
+  "img": "systems/owb/assets/default/melee.png",
+  "effects": [],
+  "_id": "T9tyWq8gQnFvKPg3",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "extreme": 0
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>Whether a crowbar, nightstick, rifle butt, tree branch, hammer, or baseball bat, a club is a simple blunt force instrument that does damage.</p>",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Melee",
+        "value": "Melee"
+      }
+    ],
+    "missile": false,
+    "melee": true,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 2,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!T9tyWq8gQnFvKPg3"
+}

@@ -13,6 +13,7 @@
   "author": "Chris Sharp",
   "license": "OGL Content",
   "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.2",
     "archiver": "^3.1.1",
     "cb": "^0.1.0",
     "chalk": "^3.0.0",

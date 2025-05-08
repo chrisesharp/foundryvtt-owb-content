@@ -1,0 +1,35 @@
+{
+  "name": "Reinforced Hull",
+  "type": "ability",
+  "img": "modules/owb-content/assets/default/armour_plate.png",
+  "effects": [],
+  "_id": "EktzOaTqj4PuZtpD",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>This modification adds reinforced plating to the vehicle's hull. It may be added up to three times (x3), but reduces the vehicle's Movement rate by half each time.</p>\n<ul>\n<li>The first level (x1) makes the vehicle immune to attacks from most personal weapons. The vehicle suffers only 1/2 damage from autocannons and 1/4 damage from grenades.</li>\n<li>The second level (x2) makes the vehicle immune to attacks from most personal weapons, autocannons, and light tank guns. The plating is strongest in front. If the vehicle is attacked from the sides, rear, top, or bottom, its hull functions as first level (x1).</li>\n<li>The third level (x3) makes the vehicle immune to attacks from most personal weapons, autocannons, light tank guns, and medium tank guns. The plating is strongest in front. If the vehicle is attacked from the sides, rear, top, or bottom, its hull functions as second level (x2).</li>\n</ul>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!EktzOaTqj4PuZtpD"
+}

@@ -1,0 +1,426 @@
+{
+  "name": "SS Officer",
+  "type": "enemy",
+  "img": "modules/owb-content/assets/default/ss_officer.png",
+  "items": [
+    {
+      "name": "BDU",
+      "type": "armor",
+      "img": "modules/owb-content/assets/default/clothing.png",
+      "effects": [],
+      "_id": "126DZ2PFGJWifIMK",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": "<p>Battle Dress Uniform issued for combat. Includes boots and helmet. (see Armor, pg. 34)</p>",
+        "ac": {
+          "value": 1
+        },
+        "aac": {
+          "value": 1
+        },
+        "type": "light",
+        "equipped": false,
+        "weight": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!fskOLUIqtik0e5hw.126DZ2PFGJWifIMK"
+    },
+    {
+      "name": "Bayonet",
+      "type": "weapon",
+      "img": "systems/owb/assets/default/melee.png",
+      "effects": [],
+      "_id": "14PDuEUx7H5KfOih",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>A bayonet is a long knife designed to fit on the end of a rifle. If used in this manner, treat the weapon as a spear.</p>",
+        "damage": "1d4+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Melee",
+            "value": "Melee"
+          }
+        ],
+        "missile": false,
+        "melee": true,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 1,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!fskOLUIqtik0e5hw.14PDuEUx7H5KfOih"
+    },
+    {
+      "name": "9mm Ammunition",
+      "type": "item",
+      "img": "systems/owb/assets/default/ammunition.png",
+      "effects": [],
+      "_id": "RWFTpKi9ZGsypYPm",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": "<p>Generic ammunition clip for a weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+        "quantity": {
+          "value": 10,
+          "max": 10
+        },
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "treasure": false,
+        "weight": 0.5
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!fskOLUIqtik0e5hw.RWFTpKi9ZGsypYPm"
+    },
+    {
+      "name": "Handgun (Medium)",
+      "type": "weapon",
+      "img": "modules/owb-content/assets/default/handgun.png",
+      "effects": [],
+      "_id": "hlaUFlJY41X64183",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "range": {
+          "short": 75,
+          "medium": 150,
+          "long": 450,
+          "extreme": 1800
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes all medium caliber handguns such as the 9 mm Luger P 08.</p>",
+        "damage": "1d6-1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": false,
+        "suppressive": false,
+        "weight": 2,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!fskOLUIqtik0e5hw.hlaUFlJY41X64183"
+    },
+    {
+      "name": "Rifle (Large)",
+      "type": "weapon",
+      "img": "modules/owb-content/assets/default/rifle.png",
+      "effects": [],
+      "_id": "OPJliAlYtcuDmflf",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "range": {
+          "short": 150,
+          "medium": 300,
+          "long": 900,
+          "extreme": 3600
+        },
+        "save": false,
+        "pattern": "transparent",
+        "description": "<p>This includes most military rifles including the German bolt-action Karabiner-98k.</p>",
+        "damage": "1d6+1",
+        "bonus": 0,
+        "tags": [
+          {
+            "title": "Burst",
+            "value": "Burst"
+          },
+          {
+            "title": "cal",
+            "value": "9mm"
+          }
+        ],
+        "missile": true,
+        "melee": false,
+        "equipped": false,
+        "burst": true,
+        "suppressive": false,
+        "weight": 10,
+        "counter": {
+          "value": 0,
+          "max": 1
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!fskOLUIqtik0e5hw.OPJliAlYtcuDmflf"
+    }
+  ],
+  "effects": [],
+  "_id": "fskOLUIqtik0e5hw",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "hp": {
+      "hd": "1d6",
+      "value": 5,
+      "max": 5
+    },
+    "ac": {
+      "value": 8,
+      "mod": 0
+    },
+    "aac": {
+      "value": 0,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bhb": 1,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "save": {
+        "value": 18
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "scores": {
+      "str": {
+        "mod": 0
+      },
+      "dex": {
+        "mod": 0
+      }
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "details": {
+      "biography": "<p>SS officers are usually depicted as arrogant and sadistic. The SS as a whole was responsible for numerous war crimes against civilians and Allied servicemen, and oversaw the operation of the concentration camps. Typical equipment includes a battle dress uniform, large rifle, and medium handgun.</p>",
+      "xp": 0,
+      "morale": "10",
+      "nationality": "German",
+      "rank": 2
+    },
+    "attacks": "",
+    "encumbrance": {
+      "max": 250,
+      "pct": 9.4,
+      "encumbered": false,
+      "value": 23.5
+    }
+  },
+  "prototypeToken": {
+    "name": "German Soldier",
+    "displayName": 0,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "randomImg": false,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 1,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null,
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "modules/owb-content/assets/default/ss_officer.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "rotation": 0,
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "alpha": 1,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!actors!fskOLUIqtik0e5hw"
+}

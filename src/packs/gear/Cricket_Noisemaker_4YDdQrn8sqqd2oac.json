@@ -1,0 +1,35 @@
+{
+  "name": "Cricket Noisemaker",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/whistle.png",
+  "effects": [],
+  "_id": "4YDdQrn8sqqd2oac",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>A brass noisemaker used to identify friendlies at night.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4YDdQrn8sqqd2oac"
+}

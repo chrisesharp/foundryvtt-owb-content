@@ -1,0 +1,40 @@
+{
+  "name": "57mm shell",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "QHK33SsboUkjTpl4",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Shell for a 57mm 6-pounder Hotchkiss tank gun.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": "57mm"
+      }
+    ],
+    "treasure": false,
+    "weight": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!QHK33SsboUkjTpl4"
+}

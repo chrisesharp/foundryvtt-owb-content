@@ -1,0 +1,40 @@
+{
+  "name": ".22 Ammunition",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "7u4hp8gmmPJ1cKvY",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Generic ammunition clip for a .22 weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": ".22"
+      }
+    ],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!7u4hp8gmmPJ1cKvY"
+}

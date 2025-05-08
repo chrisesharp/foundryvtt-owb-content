@@ -1,0 +1,49 @@
+{
+  "name": "Bow",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/bow_arrow.png",
+  "effects": [],
+  "_id": "HIQuDLmeniEfCRdr",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 45,
+      "medium": 90,
+      "long": 270,
+      "extreme": 1080
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>These weapons fire arrows. They are commonly used by civilians to hunt game.</p>",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 5,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!HIQuDLmeniEfCRdr"
+}

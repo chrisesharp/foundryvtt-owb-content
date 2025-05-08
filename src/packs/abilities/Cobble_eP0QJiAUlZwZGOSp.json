@@ -1,0 +1,35 @@
+{
+  "name": "Cobble",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "eP0QJiAUlZwZGOSp",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "2d6",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>Maquis characters have a knack for assembling and repairing technology using whatever materials are at hand.</p>\n<p><strong>Three times per</strong> <strong>day</strong>, a Maquis fighter may attempt to cobble together a mechanical device (pistol, radio, etc.) from spare parts, subject to the Referee&rsquo;s approval. This item lasts for <strong>2d6 </strong>rounds or <strong>2d6 </strong>uses (whichever is more appropriate) before falling apart.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eP0QJiAUlZwZGOSp"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Webbing",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/webbing.png",
+  "effects": [],
+  "_id": "n0fUR4qcb9PAOpfM",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Webbing is a system of military-issued belts, harnesses, and pouches used to transport gear, weapons, and extra ammunition into combat.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!n0fUR4qcb9PAOpfM"
+}

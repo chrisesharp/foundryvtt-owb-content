@@ -1,0 +1,35 @@
+{
+  "name": "Aerial",
+  "type": "ability",
+  "img": "modules/owb-content/assets/default/plane.png",
+  "effects": [],
+  "_id": "orLtvd72eWUqbsvv",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The vehicle is capable of flying through the air. Vehicles with this modification cannot normally be attacked by characters or vehicles on the ground unless the pilot is making a Strafing Run.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!orLtvd72eWUqbsvv"
+}

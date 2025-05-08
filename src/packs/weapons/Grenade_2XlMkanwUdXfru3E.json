@@ -1,0 +1,49 @@
+{
+  "name": "Grenade",
+  "type": "weapon",
+  "img": "modules/owb-content/assets/default/grenade.png",
+  "effects": [],
+  "_id": "2XlMkanwUdXfru3E",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "range": {
+      "short": 6,
+      "medium": 12,
+      "long": 36,
+      "extreme": 144
+    },
+    "save": false,
+    "pattern": "transparent",
+    "description": "<p>Grenades do 2d6+2 damage within a 30' radius. Grenades are on a timed fuse and do not explode until the end of the round, so characters may have time to dive for cover to avoid (or lessen) the blast, at the Referee&rsquo;s discretion (see Explosives, pg. 50).</p>\n<p>&nbsp;</p>\n<p>Grenades include the British Mills Bomb the American Mk II \"pineapple\" grenade, and the German \"potato masher\" stielhandgranate.</p>",
+    "damage": "2d6+2",
+    "bonus": 0,
+    "tags": [],
+    "missile": true,
+    "melee": false,
+    "equipped": false,
+    "burst": false,
+    "suppressive": false,
+    "weight": 1,
+    "counter": {
+      "value": 0,
+      "max": 1
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2XlMkanwUdXfru3E"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Loyal Allies",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "pKPMYmCSHpUwIBpa",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "1d6",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false,
+    "description": "<p>The Charmer's friendly demeanor draws the service of <strong>1d6</strong> loyal NPCs. These allies are fiercely loyal to the Charmer and assist him in any way possible, even fighting and dying for him, if necessary. The player and the Referee should work together to determine the nature of these NPCs and how they came to idolize the Charmer.</p>\n<p>They may be civilians, fellow soldiers, resistance fighters, or even disillusioned German fighters that the Charmer has aided, armed, or rescued.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pKPMYmCSHpUwIBpa"
+}

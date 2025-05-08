@@ -1,0 +1,35 @@
+{
+  "name": "Toolkit",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/toolkit.png",
+  "effects": [],
+  "_id": "o3TIX6B8vmZgUAs5",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>This kit contains common tools such as a wrench, screwdriver, prybar, pliers, small hacksaw, electrical tape, and wire cutters. A toolkit is essential for demolitions operations. Double the weight of the toolkit if large tools such as bolt cutters or mallets are included.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!o3TIX6B8vmZgUAs5"
+}

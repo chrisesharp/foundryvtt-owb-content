@@ -1,0 +1,35 @@
+{
+  "name": "Compass",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/compass.png",
+  "effects": [],
+  "_id": "nA1Wcv7eDYHktYsr",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Two types of compasses were standard issue during WWII. The largest was a wrist compass, worn like a watch. The smallest was less accurate, but could be concealed in your . . . almost anywhere . . . and was part of most survival kits.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!nA1Wcv7eDYHktYsr"
+}

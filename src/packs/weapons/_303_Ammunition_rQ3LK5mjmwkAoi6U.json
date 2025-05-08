@@ -1,0 +1,40 @@
+{
+  "name": ".303 Ammunition",
+  "type": "item",
+  "img": "systems/owb/assets/default/ammunition.png",
+  "effects": [],
+  "_id": "rQ3LK5mjmwkAoi6U",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>Generic ammunition clip for a .303 weapon. Specific ammo should be created for each weapon to set the weight.</p>",
+    "quantity": {
+      "value": 10,
+      "max": 10
+    },
+    "tags": [
+      {
+        "title": "cal",
+        "value": ".303"
+      }
+    ],
+    "treasure": false,
+    "weight": 0.5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!rQ3LK5mjmwkAoi6U"
+}

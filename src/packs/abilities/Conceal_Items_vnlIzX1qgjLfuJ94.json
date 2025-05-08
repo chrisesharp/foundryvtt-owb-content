@@ -1,0 +1,35 @@
+{
+  "name": "Conceal Items",
+  "type": "ability",
+  "img": "systems/owb/assets/default/abilities.png",
+  "effects": [],
+  "_id": "vnlIzX1qgjLfuJ94",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "pattern": "white",
+    "requirements": "",
+    "roll": "1d10",
+    "rollType": "above",
+    "rollTarget": 2,
+    "blindroll": false,
+    "description": "<p>Maquis fighters are particularly adept at hiding items (keys, small weapons, documents, etc.) on their person or elsewhere. Whenever an enemy is searching the Maquis or his home for concealed items, the item can only be detected on a roll of 1 on a 1d10.</p>",
+    "save": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!vnlIzX1qgjLfuJ94"
+}

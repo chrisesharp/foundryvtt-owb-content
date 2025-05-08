@@ -1,0 +1,35 @@
+{
+  "name": "Sleeping Bag",
+  "type": "item",
+  "img": "modules/owb-content/assets/default/sleeping_bag.png",
+  "effects": [],
+  "_id": "MSODkTaqHBCKU1Rk",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": "<p>A lightweight sleeping bag and water-repellent case issued to military troops.</p>",
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "tags": [],
+    "treasure": false,
+    "weight": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!MSODkTaqHBCKU1Rk"
+}
